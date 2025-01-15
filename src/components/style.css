@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  header{
+
+    display: flex;
+    justify-content: space-around;
+  }
+  .headerUserBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+
+  .button{
+    background-color:#22AF86;
+    width: 280px;
+    height: 50px;
+    color: white;
+    padding: 16px;
+    font-size: 15px;
+    font-display: center;
+    border-radius: 30px;
+    cursor: pointer;
+
+  }
+
+  
+  
